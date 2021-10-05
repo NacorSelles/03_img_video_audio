@@ -1,0 +1,22 @@
+/*RESET html*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+ul li{
+    list-style-type: none;
+}
+/*html*/
+header {
+    background-color: #b3badf;
+    padding: 20px;
+    margin: 0 0 20px 0;
+}
+nav {
+    background-color: #dfc5b3;
+    padding: 20px;
+}
+main {
+    background-color: #dfb3b9;
+}
